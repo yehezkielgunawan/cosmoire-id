@@ -1,4 +1,16 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "formulahendry.auto-rename-tag",
+    "vivaxy.vscode-conventional-commits",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "xabikos.javascriptsnippets",
+    "ms-vscode.vscode-typescript-next",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss"
+  ],
   "unwantedRecommendations": []
 }
